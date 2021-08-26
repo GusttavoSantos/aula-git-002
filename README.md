@@ -7,3 +7,4 @@ testando o pull
 
 eu vou gerar um conflito de qualquer forma      
 tentando gerar um conflito    e geralmente consigo
+Brincando o README
